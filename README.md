@@ -8,5 +8,6 @@ Navigate to the folder where these files are located
 Execute command "vagrant up"
 
 All VMs are launched and can ensure it is working as expected by entering http://web01 in browser address bar
-Enter "admin_vp" as username and password
+Enter "admin_vp" as username and password.
+
 On the website you can see the database, memcache, MQ, web and tomcat VMs all are working
